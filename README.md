@@ -316,19 +316,19 @@ GET /events
 
 ### KPI Dashboard
 
-<img src="reports/screenshots/cards.png" width="700">
+<img src="reports/screenshots/cards.png.png" width="700">
 
 ### Distribution Network Digital Twin
 
-<img src="reports/screenshots/buildings.png" width="700">
+<img src="reports/screenshots/buildings.png.png" width="700">
 
 ### Node Status Monitoring
 
-<img src="reports/screenshots/nodes.png" width="700">
+<img src="reports/screenshots/nodes.png.png" width="700">
 
 ### Event Log Monitoring
 
-<img src="reports/screenshots/eventlogs.png" width="700">
+<img src="reports/screenshots/eventlogs.png.png" width="700">
 
 ---
 
